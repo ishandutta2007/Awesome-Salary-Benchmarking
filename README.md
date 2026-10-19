@@ -143,3 +143,4 @@ Contributions welcome! Open a PR to add or update entries.
 <p align="center">
   <b>Built for People Operations, Total Rewards Leaders, Compensation Analysts, and Advocates of Fair & Equitable Pay.</b>
 </p>
+- [WageLark](https://wagelark.com/) - BLS-oriented salary and compensation research helpers.
